@@ -5,5 +5,5 @@
 
 ## Weekly Goals
 
-* [Week 1](weekly-goals/week-1.md)
+* [Week 1 notes](weekly-goals/week-1.md)
 
