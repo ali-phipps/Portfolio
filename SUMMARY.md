@@ -5,6 +5,7 @@
 * [I can TDD anything](i-can-tdd-anything.md)
 * [I can model anything](i-can-model-anything.md)
 * [I can refactor anything](i-can-refactor-anything.md)
+* [Code Review](code-review.md)
 
 ## Weekly Goals
 
