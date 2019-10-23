@@ -14,12 +14,12 @@ The log evidences my progress against meeting the course goals. It documents my 
 4. [I can refactor anything](i-can-refactor-anything.md)
 5. [I have a methodical approach to solving problems](i-have-a-methodical-approach-to-solving-problems.md)
 
-**I'm equipped for long term growth**
+### **I'm equipped for long term growth**
 
 1. I manage my own wellbeing
 2. I can learn anything by myself
 
-**I help my team succeed**
+### **I help my team succeed**
 
 1. I use an agile product development process
 2. I write code that is easy to change
