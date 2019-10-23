@@ -4,18 +4,24 @@ I use strict TDD without thinking ahead about implementation. Working story at a
 
 #### TDD Process
 
-* Red, Green, Refactor
+* I use Red, Green, Refactor to move in small steps
 * I refactor based on my [refactor process](i-can-refactor-anything.md)
+
+Testing
+
+I understand the difference between black box and white box testing
+
+I understand the difference between testing state v testing behaviour
+
+I can unit test a class, using mocks and doubles to isolate dependencies on 
+
+I understand feature testing, bringing together classes to test expected behaviour
 
 ### Evidence
 
 
 
-I refactor my code as I go, looking for alignment to OOP principles eg :
-
-* 
 
 
-* 
 
 

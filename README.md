@@ -10,8 +10,7 @@ A log of my time at Makers Academy. Track and evidence learning goals
 2. [I can debug anything](i-can-debug-anything.md)
 3. [I can model anything](i-can-model-anything.md)
 4. [I can refactor anything](i-can-refactor-anything.md)
-5. I have a methodical approach to sloving problems
-6. 7. 8. \*\*\*\*
+5. I have a methodical approach to solving problems
 
 **I'm equipped for long term growth**
 
