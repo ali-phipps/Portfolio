@@ -12,7 +12,7 @@ The log evidences my progress against meeting the course goals. It documents my 
 2. [I can debug anything](i-can-debug-anything.md)
 3. [I can model anything](i-can-model-anything.md)
 4. [I can refactor anything](i-can-refactor-anything.md)
-5. I have a methodical approach to solving problems
+5. [I have a methodical approach to solving problems](i-have-a-methodical-approach-to-solving-problems.md)
 
 **I'm equipped for long term growth**
 
