@@ -1,6 +1,8 @@
 # Portfolio
 
-A log of my time at Makers Academy. Track and evidence learning goals
+A log of my time at Makers Academy!
+
+The log evidences my progress against meeting the course goals
 
 ## Goals
 
