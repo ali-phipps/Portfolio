@@ -13,7 +13,7 @@ I understand the difference between black box and white box testing
 
 I understand the difference between testing state v testing behaviour
 
-I can unit test a class, using mocks/doubles to isolate dependencies on a class 
+I can unit test a class, using mocks and doubles to isolate dependencies on 
 
 I understand feature testing, bringing together classes to test expected behaviour
 
