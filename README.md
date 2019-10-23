@@ -2,7 +2,7 @@
 
 A log of my time at Makers Academy!
 
-The log evidences my progress against meeting the course goals
+The log evidences my progress against meeting the course goals. It documents my processes, projects completed and other evidence of my learning.
 
 ## Goals
 
