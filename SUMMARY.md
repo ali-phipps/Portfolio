@@ -13,9 +13,10 @@
 
 * [Week 1 notes](weekly-goals/week-1.md)
 * [Week 2 Notes](weekly-goals/week-2-notes.md)
+* [Week 3 Notes](weekly-goals/week-3-notes.md)
+* [Week 5 Notes](weekly-goals/week-5-notes.md)
 
 ## Projects
 
 * [Projects created at my time at Makers](projects/projects-created-at-my-time-at-makers.md)
-* [Week 5 Notes](week-5-notes.md)
 
