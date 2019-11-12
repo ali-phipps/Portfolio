@@ -17,4 +17,5 @@
 ## Projects
 
 * [Projects created at my time at Makers](projects/projects-created-at-my-time-at-makers.md)
+* [Week 5 Notes](week-5-notes.md)
 
